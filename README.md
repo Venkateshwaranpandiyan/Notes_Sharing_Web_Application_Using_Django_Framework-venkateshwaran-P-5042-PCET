@@ -2,8 +2,8 @@
 
 Project Developed by:
 
-Name: Harish K
-Reg no: 712221205010
+Name: Venkateshwaran P
+Reg no: 712221205042
 College Name: Park College Of Engineering and Technology
 
 ### Note Keeping App
